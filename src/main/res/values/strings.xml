@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Color Throne Free</string>
+    <string name="welcome">
+        Controls:
+        &lt;br/&gt;
+            swipe left/right - move
+        &lt;br/&gt;
+            swipe down - drop
+        &lt;br/&gt;
+            swipe up - rotate
+        &lt;br/&gt;
+            tap on left/right - rotate colors
+        &lt;br/&gt;
+            hit home - pause the game
+        &lt;br/&gt;
+        &lt;h4&gt; Tap on logo to start! &lt;/h4&gt;
+    </string>
+    <string name="button_buy">Buy</string>
+    <string name="button_close">Close</string>
+    <string name="text_ad">
+        &lt;h1&gt; &lt;font color="red"&gt; Color Throne &lt;br/&gt; Free Version &lt;/font&gt; &lt;/h1&gt;
+        &lt;br/&gt;
+        &lt;b&gt; Dear User &lt;/b&gt;, thank you for your interest in this game.
+        &lt;br/&gt;&lt;br/&gt;
+        If you like the game, want a stable release with updates and new features and no annoying
+        messages, then please consider buying a paid version. It\'s dirt cheap and this way you will
+        thank the developer.
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;h4&gt; Thank you for playing! &lt;/h4&gt;
+    </string>
+    <string name="bonus0">Bonus!</string>
+    <string name="bonus1">Bonus Alert!</string>
+    <string name="bonus2">On less than 3 blocks!</string>
+
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Color Throne Free</string>
+    <string name="welcome">
+        &lt;h1&gt; &lt;font color="red"&gt; бесплатная версия &lt;/font&gt; &lt;/h1&gt;
+        Управление:
+        &lt;br/&gt;
+            свайп влево/вправо - двигать
+        &lt;br/&gt;
+            свайп вниз - уронить
+        &lt;br/&gt;
+            свайп вверх - вращение
+        &lt;br/&gt;
+            нажатие слева/справа - вращение цветов
+        &lt;br/&gt;
+            кнопка возврата на главный экран - пауза
+        &lt;br/&gt;
+        &lt;h4&gt; Нажмите на логотип для начала игры! &lt;/h4&gt;
+    </string>
+    <string name="button_buy">Купить</string>
+    <string name="button_close">Закрыть</string>
+    <string name="text_ad">
+        &lt;h1&gt; &lt;font color="red"&gt; Color Throne &lt;br/&gt; бесплатная версия &lt;/font&gt; &lt;/h1&gt;
+        &lt;br/&gt;
+        &lt;b&gt; Дорогой Пользователь &lt;/b&gt;, спасибо за Ваш интерес к игре.
+        &lt;br/&gt;&lt;br/&gt;
+        Если Вам понравилась игра, Вы хотели бы стабильную версию с последними обновлениями и новыми
+        опциями, а также без надоедливых сообщений, тогда, пожалуйста, рассмотрите вариант покупки
+        платной версии. Это совсем недорого, и таким образом Вы отблагодарите разработчика.
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;h4&gt; Спасибо, что играете! &lt;/h4&gt;
+    </string>
+    <string name="bonus0">Бонус!</string>
+    <string name="bonus1">Внимание, бонус!</string>
+    <string name="bonus2">При условии менее 3 блоков!</string>
+
+</resources>
